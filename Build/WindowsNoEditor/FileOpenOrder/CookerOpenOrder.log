@@ -166,405 +166,414 @@
 "../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/AudioBp/WaterFloaterBP.uasset" 165
 "../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/BoatPhysicsMaterial/SecondPlane.uasset" 166
 "../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/BoatPhysicsMaterial/OceanPhysics.uasset" 167
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/NewAnimations/NewAnimBlueprint.uasset" 168
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Treading_Water_Skeleton.uasset" 169
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Spirit_Sitting_Pose_Anim.uasset" 170
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/NewAnimations/Left_Paddle_PhysicsAsset.uasset" 171
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/NewAnimations/Left_Paddle.uasset" 172
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Spirit_Sitting_Pose_PhysicsAsset.uasset" 173
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Spirit_Sitting_Pose.uasset" 174
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/BoatPhysicsMaterial/BoatPhysics.uasset" 175
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/tester.uasset" 176
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/BoatSound/Boat_Moving_Loop.uasset" 177
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/Master1.uasset" 178
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/BoatSound/BoatMovement.uasset" 179
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/BP_Boat.uasset" 180
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 181
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/Boat/BP_HoverComponent.uasset" 182
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/Libraries/I_Iteractions.uasset" 183
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Treading_Water_Anim.uasset" 184
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/ABP_Spirit2.uasset" 185
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/ABP_Spirit3.uasset" 186
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/ABP_Spirit4.uasset" 187
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/NewMaterial.uasset" 188
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol1.uasset" 189
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_1.uasset" 190
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Planks_baseColor.uasset" 191
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Planks_normal.uasset" 192
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Planks_roughness.uasset" 193
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/dock_1_planks.uasset" 194
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Planks3_baseColor.uasset" 195
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Planks3_normal.uasset" 196
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Planks3_roughness.uasset" 197
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/dock_2_planks.uasset" 198
-"../../../Engine/Content/BasicShapes/Cube.uasset" 199
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 200
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 201
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/M_Fireflys1.uasset" 202
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/P_Fireflys1.uasset" 203
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/textures/rock_low_BaseColor.uasset" 204
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/textures/rock_low_Metalness.uasset" 205
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/textures/rock_low_Normal.uasset" 206
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/textures/rock_low_Roughness.uasset" 207
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Materials/Rock_Loww.uasset" 208
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/rock_low.uasset" 209
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/textures/TREE_BaseColor.uasset" 210
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/default.uasset" 211
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/TREE.uasset" 212
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 213
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/backwall/Backwall_Base_Color.uasset" 214
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/backwall/Backwall_Height.uasset" 215
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/backwall/Backwall_Mixed_AO.uasset" 216
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/backwall/Backwall_Normal_DirectX.uasset" 217
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/backwall/Backwall_Roughness.uasset" 218
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Backwall.uasset" 219
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/backwall.uasset" 220
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Foundations_baseColor.uasset" 221
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Foundations_normal.uasset" 222
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Foundations_roughness.uasset" 223
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/dock_1_support.uasset" 224
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/dock_1.uasset" 225
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/soil/Soil_baseColor.uasset" 226
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/soil/Soil_normal.uasset" 227
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/soil/Soil_roughness.uasset" 228
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/soil.uasset" 229
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/soil.uasset" 230
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/whale_bones/Whale1_baseColor.uasset" 231
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/whale_bones/Whale1_roughness.uasset" 232
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/whale_bones.uasset" 233
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/whale_bones.uasset" 234
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/BP_IslandYthen.uasset" 235
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/WD_Instructions.uasset" 236
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_FideGameMode.uasset" 237
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/OrbSound/Soul_Orb_Move_Sound.uasset" 238
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_Spirit4.uasset" 239
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_Spirit3.uasset" 240
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_Spirits2.uasset" 241
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/LostSoulAudioLoop.uasset" 242
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/LostSoul.uasset" 243
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_Spirit1.uasset" 244
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/ABP_Spirit1.uasset" 245
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Treading_Water_PhysicsAsset.uasset" 246
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Treading_Water.uasset" 247
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_SpiritsBaseClass.uasset" 248
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/WD_DrowningGuyQuestions.uasset" 249
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/BoatSound/BoatImpact.uasset" 250
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/Boat/BP_Boat.uasset" 251
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 252
-"../../../Engine/Content/BasicShapes/Cone.uasset" 253
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_Island.uasset" 254
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_GameInstance.uasset" 255
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_OnLandGondola.uasset" 256
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/Struc_Questions.uasset" 257
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/Questions.uasset" 258
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/BookPlaceHolder.uasset" 259
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/WD_Book.uasset" 260
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 261
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 262
-"../../../Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset" 263
-"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 264
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_FerryManTalk.uasset" 265
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/Struc_Passengers.uasset" 266
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/DT_Passengers.uasset" 267
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 268
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 269
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 270
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 271
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_PassengersBaseClass.uasset" 272
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_SpawnPassengers.uasset" 273
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 274
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 275
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 276
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 277
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 278
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 279
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 280
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 281
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 282
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 283
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 284
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 285
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 286
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 287
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 288
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 289
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 290
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 291
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 292
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 293
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 294
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 295
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 296
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 297
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 298
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 299
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 300
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 301
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 302
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 303
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 304
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 305
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 306
-"../../../Engine/Content/EditorResources/S_Note.uasset" 307
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 308
-"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 309
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 310
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 311
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 312
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 313
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 314
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 315
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 316
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 317
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 318
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 319
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 320
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 321
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 322
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 323
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 324
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 325
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 326
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 327
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 328
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 329
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 330
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 331
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 332
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 333
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 334
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 335
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 336
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 337
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 338
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 339
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 340
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 341
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 342
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 343
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 344
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 345
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 346
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 347
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 348
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 349
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 350
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 351
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 352
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 353
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 354
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 355
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 356
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 357
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 358
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 359
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 360
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 361
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 362
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 363
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 364
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 365
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 366
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 367
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 368
-"../../../Engine/Content/EngineResources/Black.uasset" 369
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 370
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 371
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 372
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 373
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 374
-"../../../Engine/Content/EngineSounds/Master.uasset" 375
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 376
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 377
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 378
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 379
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 380
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 381
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 382
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 383
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 384
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 385
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 386
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 387
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 388
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 389
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 390
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 391
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 392
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 393
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 394
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 395
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 396
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 397
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 398
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 399
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 400
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 401
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 402
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 403
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 404
-"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 405
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 406
-"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 407
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 408
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 409
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 410
-"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 411
-"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 412
-"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 413
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 414
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 415
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 416
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 417
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 418
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 419
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 420
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 421
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 422
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 423
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 424
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 425
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 426
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 427
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 428
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 429
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 430
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 431
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 432
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 433
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 434
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 435
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 436
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 437
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 438
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 439
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 440
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 441
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 442
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 443
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 444
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 445
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 446
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 447
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 448
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 449
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 450
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/Gameplay_3.uasset" 451
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/Credits.uasset" 452
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Credits.umap" 453
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 454
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 455
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 456
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 457
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 458
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 459
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 460
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 461
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 462
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/FirstPersonHUD.uasset" 463
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/FirstPersonGameMode.uasset" 464
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Fideo2_BuiltData.uasset" 465
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 466
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Fideo2.umap" 467
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_DrowningSpiritBaseClass.uasset" 468
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/OrbSound/OrbImpact.uasset" 469
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/AudioBp/SoulSoundPhysical.uasset" 470
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Fideo_Map_BuiltData.uasset" 471
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/M_Water_Ocean.uasset" 472
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Fideo_Map.umap" 473
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/BP_GameMode.uasset" 474
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/J_Map_BuiltData.uasset" 475
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/DeleteWhenAddingAnything.uasset" 476
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 477
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/NewWaterAmbiance.uasset" 478
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/BoatSound/River_Of_Sticks_Loop.uasset" 479
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/J_Map.umap" 480
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Sitting_Anim.uasset" 481
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_8.uasset" 482
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_354_Blueprint.uasset" 483
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/rock_low3_Blueprint.uasset" 484
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Level_1_BuiltData.uasset" 485
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol_2.uasset" 486
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_2.uasset" 487
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol_3.uasset" 488
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_3.uasset" 489
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol_4.uasset" 490
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_4.uasset" 491
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol_5.uasset" 492
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_5.uasset" 493
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol_6.uasset" 494
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_6.uasset" 495
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Placeholder/M_LakeWater.uasset" 496
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Placeholder/M_LakeWater_Inst.uasset" 497
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_1.uasset" 498
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_2.uasset" 499
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_3.uasset" 500
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_4.uasset" 501
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_7.uasset" 502
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_9.uasset" 503
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/M_Fireflys.uasset" 504
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/P_Fireflys.uasset" 505
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/Rib_cage.uasset" 506
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/Rocks_Rocks_rock_1.uasset" 507
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/Rocks_Rocks_rock_3.uasset" 508
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Level_1.umap" 509
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Sasha_Map_BuiltData.uasset" 510
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/RefCharacter/REF_Character.uasset" 511
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/ring_baseColor.uasset" 512
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/ring_metallic.uasset" 513
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/ring_normal.uasset" 514
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/ring_roughness.uasset" 515
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/barrel_ring.uasset" 516
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/Wood_barrel_baseColor.uasset" 517
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/Wood_barrel_normal.uasset" 518
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/Wood_barrel_roughness.uasset" 519
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/barrel_wood.uasset" 520
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/barrel.uasset" 521
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Support1_baseColor.uasset" 522
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Support1_normal.uasset" 523
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Support1_roughness.uasset" 524
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/dock_2_support.uasset" 525
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/Dock_2.uasset" 526
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Base_baseColor.uasset" 527
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Base_normal.uasset" 528
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Base_roughness.uasset" 529
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_base.uasset" 530
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Door_baseColor.uasset" 531
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Door_normal.uasset" 532
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Door_roughness.uasset" 533
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_door.uasset" 534
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Frame_baseColor.uasset" 535
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Frame_normal.uasset" 536
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Frame_roughness.uasset" 537
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_frame.uasset" 538
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Roof_baseColor.uasset" 539
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Roof_normal.uasset" 540
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Roof_roughness.uasset" 541
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_roof.uasset" 542
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Window_frame_baseColor.uasset" 543
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Window_frame_normal.uasset" 544
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Window_frame_roughness.uasset" 545
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_w_frame.uasset" 546
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Window_baseColor.uasset" 547
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_window.uasset" 548
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Wood_Stripes_baseColor.uasset" 549
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Wood_Stripes_normal.uasset" 550
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Wood_Stripes_roughness.uasset" 551
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_ws.uasset" 552
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/shack.uasset" 553
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Sasha_Map.umap" 554
-"../../../Engine/Content/EngineMaterials/NewBaseFlattenMaterial.uasset" 555
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/5.uasset" 556
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/DeleteWhenAddingAnything1.uasset" 557
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Placeholder/Shape_Cube.uasset" 558
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/Iceland/BP_Iceland.uasset" 559
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Shayan_BuiltData.uasset" 560
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Shayan.umap" 561
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Shayan_Map.umap" 562
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/YThen_Map_BuiltData.uasset" 563
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Sitting_PhysicsAsset.uasset" 564
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Sitting.uasset" 565
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/WATERPLANE_pPlane2.uasset" 566
-"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/YThen_Map.umap" 567
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 568
-"../../../Engine/Content/Maps/Entry.umap" 569
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/BorderBlack.uasset" 168
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/NewAnimations/NewAnimBlueprint.uasset" 169
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Treading_Water_Skeleton.uasset" 170
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Spirit_Sitting_Pose_Anim.uasset" 171
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/NewAnimations/Left_Paddle_PhysicsAsset.uasset" 172
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/NewAnimations/Left_Paddle.uasset" 173
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Spirit_Sitting_Pose_PhysicsAsset.uasset" 174
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Spirit_Sitting_Pose.uasset" 175
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/BoatPhysicsMaterial/BoatPhysics.uasset" 176
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/tester.uasset" 177
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/BoatSound/Boat_Moving_Loop.uasset" 178
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/Master1.uasset" 179
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/BoatSound/BoatMovement.uasset" 180
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/BP_Boat.uasset" 181
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Treading_Water_Anim.uasset" 182
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 183
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/Boat/BP_HoverComponent.uasset" 184
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/Libraries/I_Iteractions.uasset" 185
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/Cinzel-Bold.uasset" 186
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/Cinzel-Bold_Font.uasset" 187
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/Cinzel-Regular.uasset" 188
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/Cinzel-Regular_Font.uasset" 189
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/BorderWhite.uasset" 190
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/WD_DrowningGuyQuestions.uasset" 191
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/BoatSound/BoatImpact.uasset" 192
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/Boat/BP_Boat.uasset" 193
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/ABP_Spirit2.uasset" 194
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/ABP_Spirit3.uasset" 195
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/ABP_Spirit4.uasset" 196
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/NewMaterial.uasset" 197
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol1.uasset" 198
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_1.uasset" 199
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Planks_baseColor.uasset" 200
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Planks_normal.uasset" 201
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Planks_roughness.uasset" 202
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/dock_1_planks.uasset" 203
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Planks3_baseColor.uasset" 204
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Planks3_normal.uasset" 205
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Planks3_roughness.uasset" 206
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/dock_2_planks.uasset" 207
+"../../../Engine/Content/BasicShapes/Cube.uasset" 208
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 209
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 210
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/M_Fireflys1.uasset" 211
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/P_Fireflys1.uasset" 212
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/textures/rock_low_BaseColor.uasset" 213
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/textures/rock_low_Metalness.uasset" 214
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/textures/rock_low_Normal.uasset" 215
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/textures/rock_low_Roughness.uasset" 216
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Materials/Rock_Loww.uasset" 217
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/rock_low.uasset" 218
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/textures/TREE_BaseColor.uasset" 219
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/default.uasset" 220
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/TREE.uasset" 221
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 222
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/backwall/Backwall_Base_Color.uasset" 223
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/backwall/Backwall_Height.uasset" 224
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/backwall/Backwall_Mixed_AO.uasset" 225
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/backwall/Backwall_Normal_DirectX.uasset" 226
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/backwall/Backwall_Roughness.uasset" 227
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Backwall.uasset" 228
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/backwall.uasset" 229
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Foundations_baseColor.uasset" 230
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Foundations_normal.uasset" 231
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_1/Foundations_roughness.uasset" 232
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/dock_1_support.uasset" 233
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/dock_1.uasset" 234
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/soil/Soil_baseColor.uasset" 235
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/soil/Soil_normal.uasset" 236
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/soil/Soil_roughness.uasset" 237
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/soil.uasset" 238
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/soil.uasset" 239
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/whale_bones/Whale1_baseColor.uasset" 240
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/whale_bones/Whale1_roughness.uasset" 241
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/whale_bones.uasset" 242
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/whale_bones.uasset" 243
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/BP_IslandYthen.uasset" 244
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/WD_Instructions.uasset" 245
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_FideGameMode.uasset" 246
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/OrbSound/Soul_Orb_Move_Sound.uasset" 247
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_Spirit4.uasset" 248
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_Spirit3.uasset" 249
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_Spirits2.uasset" 250
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/LostSoulAudioLoop.uasset" 251
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/LostSoul.uasset" 252
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_Spirit1.uasset" 253
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/ABP_Spirit1.uasset" 254
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Treading_Water_PhysicsAsset.uasset" 255
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Treading_Water.uasset" 256
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_SpiritsBaseClass.uasset" 257
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 258
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 259
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 260
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 261
+"../../../Engine/Content/EngineMaterials/NewBaseFlattenMaterial.uasset" 262
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/5.uasset" 263
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 264
+"../../../Engine/Content/BasicShapes/Cone.uasset" 265
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_Island.uasset" 266
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_GameInstance.uasset" 267
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_OnLandGondola.uasset" 268
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/Struc_Questions.uasset" 269
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/Questions.uasset" 270
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/BookPlaceHolder.uasset" 271
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/WD_Book.uasset" 272
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 273
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 274
+"../../../Engine/Content/VREditor/Sounds/UI/Camera_Shutter.uasset" 275
+"../../../Engine/Content/VREditor/Sounds/UI/Dockable_Window_Drop.uasset" 276
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_FerryManTalk.uasset" 277
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/Struc_Passengers.uasset" 278
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/DT_Passengers.uasset" 279
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 280
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 281
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 282
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 283
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_PassengersBaseClass.uasset" 284
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_SpawnPassengers.uasset" 285
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/Obstacles/Obstacle_test.uasset" 286
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/MyGoodFont.uasset" 287
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 288
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 289
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 290
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 291
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 292
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 293
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 294
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 295
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 296
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 297
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 298
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 299
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 300
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 301
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 302
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 303
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 304
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 305
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 306
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 307
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 308
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 309
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 310
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 311
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 312
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 313
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 314
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 315
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 316
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 317
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 318
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 319
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 320
+"../../../Engine/Content/EditorResources/S_Note.uasset" 321
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 322
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 323
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 324
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 325
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 326
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 327
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 328
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 329
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 330
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 331
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 332
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 333
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 334
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 335
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 336
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 337
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 338
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 339
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 340
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 341
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 342
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 343
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 344
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 345
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 346
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 347
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 348
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 349
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 350
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 351
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 352
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 353
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 354
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 355
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 356
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 357
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 358
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 359
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 360
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 361
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 362
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 363
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 364
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 365
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 366
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 367
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 368
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 369
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 370
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 371
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 372
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 373
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 374
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 375
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 376
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 377
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 378
+"../../../Engine/Content/EngineResources/Black.uasset" 379
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 380
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 381
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 382
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 383
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 384
+"../../../Engine/Content/EngineSounds/Master.uasset" 385
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 386
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 387
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 388
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 389
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 390
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 391
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 392
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 393
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 394
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 395
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 396
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 397
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 398
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 399
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 400
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 401
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 402
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 403
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 404
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 405
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 406
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 407
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 408
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 409
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 410
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 411
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 412
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 413
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 414
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 415
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 416
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 417
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 418
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 419
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 420
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 421
+"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 422
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 423
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 424
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 425
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 426
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 427
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 428
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 429
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 430
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 431
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 432
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 433
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 434
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 435
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 436
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 437
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 438
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 439
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 440
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 441
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 442
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 443
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 444
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 445
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 446
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 447
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 448
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 449
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 450
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 451
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 452
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 453
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 454
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 455
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 456
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 457
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 458
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 459
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 460
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/Gameplay_3.uasset" 461
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/UI/Credits.uasset" 462
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Credits.umap" 463
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 464
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 465
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 466
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 467
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 468
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 469
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 470
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 471
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 472
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/FirstPersonHUD.uasset" 473
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/FirstPersonGameMode.uasset" 474
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Fideo2_BuiltData.uasset" 475
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 476
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Fideo2.umap" 477
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/BP_DrowningSpiritBaseClass.uasset" 478
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/OrbSound/OrbImpact.uasset" 479
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/AudioBp/SoulSoundPhysical.uasset" 480
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Fideo_Map_BuiltData.uasset" 481
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/M_Water_Ocean.uasset" 482
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Fideo_Map.umap" 483
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/BP_GameMode.uasset" 484
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/J_Map_BuiltData.uasset" 485
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/DeleteWhenAddingAnything.uasset" 486
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 487
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/NewWaterAmbiance.uasset" 488
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Audio/SFX/BoatSound/River_Of_Sticks_Loop.uasset" 489
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/J_Map.umap" 490
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Sitting_Anim.uasset" 491
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_8.uasset" 492
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_354_Blueprint.uasset" 493
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/rock_low3_Blueprint.uasset" 494
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/ConversationSection/Obstacles/Obstacle_PointyRock.uasset" 495
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Level_1_BuiltData.uasset" 496
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol_2.uasset" 497
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_2.uasset" 498
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol_3.uasset" 499
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_3.uasset" 500
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol_4.uasset" 501
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_4.uasset" 502
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol_5.uasset" 503
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_5.uasset" 504
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/decals/Symbol_6.uasset" 505
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Decal_Symbo_6.uasset" 506
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Placeholder/M_LakeWater.uasset" 507
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Placeholder/M_LakeWater_Inst.uasset" 508
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_1.uasset" 509
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_2.uasset" 510
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_3.uasset" 511
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_4.uasset" 512
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_7.uasset" 513
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Enviroment/Folliage_9.uasset" 514
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/M_Fireflys.uasset" 515
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/P_Fireflys.uasset" 516
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/Rib_cage.uasset" 517
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/Rocks_Rocks_rock_1.uasset" 518
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/Rocks_Rocks_rock_3.uasset" 519
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Level_1.umap" 520
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Sasha_Map_BuiltData.uasset" 521
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/RefCharacter/REF_Character.uasset" 522
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/ring_baseColor.uasset" 523
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/ring_metallic.uasset" 524
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/ring_normal.uasset" 525
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/ring_roughness.uasset" 526
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/barrel_ring.uasset" 527
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/Wood_barrel_baseColor.uasset" 528
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/Wood_barrel_normal.uasset" 529
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/barrel/Wood_barrel_roughness.uasset" 530
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/barrel_wood.uasset" 531
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/barrel.uasset" 532
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Support1_baseColor.uasset" 533
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Support1_normal.uasset" 534
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/dock_2/Support1_roughness.uasset" 535
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/dock_2_support.uasset" 536
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/Dock_2.uasset" 537
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Base_baseColor.uasset" 538
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Base_normal.uasset" 539
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Base_roughness.uasset" 540
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_base.uasset" 541
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Door_baseColor.uasset" 542
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Door_normal.uasset" 543
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Door_roughness.uasset" 544
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_door.uasset" 545
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Frame_baseColor.uasset" 546
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Frame_normal.uasset" 547
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Frame_roughness.uasset" 548
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_frame.uasset" 549
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Roof_baseColor.uasset" 550
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Roof_normal.uasset" 551
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Roof_roughness.uasset" 552
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_roof.uasset" 553
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Window_frame_baseColor.uasset" 554
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Window_frame_normal.uasset" 555
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Window_frame_roughness.uasset" 556
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_w_frame.uasset" 557
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Window_baseColor.uasset" 558
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_window.uasset" 559
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Wood_Stripes_baseColor.uasset" 560
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Wood_Stripes_normal.uasset" 561
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/Textures/shack/Wood_Stripes_roughness.uasset" 562
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Materials/shack_ws.uasset" 563
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Meshes/shack.uasset" 564
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Sasha_Map.umap" 565
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/DeleteWhenAddingAnything1.uasset" 566
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Environment/Placeholder/Shape_Cube.uasset" 567
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Core/Characters/Iceland/BP_Iceland.uasset" 568
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Shayan_BuiltData.uasset" 569
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Shayan.umap" 570
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/Shayan_Map.umap" 571
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/YThen_Map_BuiltData.uasset" 572
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Sitting_PhysicsAsset.uasset" 573
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/Spirits/Sitting.uasset" 574
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Art/Characters/WATERPLANE_pPlane2.uasset" 575
+"../../../../../../Users/El fideo rubio/Documents/Unreal Projects/ThePassage/Content/Maps/YThen_Map.umap" 576
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 577
+"../../../Engine/Content/Maps/Entry.umap" 578
